@@ -1,1 +1,1 @@
-echo "Initial content in file1.py" > file1.py
+echo "Content modified by branch1" > file1.py 
